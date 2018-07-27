@@ -1,0 +1,11 @@
+C:\Users\ngarza\Desktop\RatiosOfLife\RatiosOfLife\RatiosOfLife\bin\Debug\netcoreapp2.0\RatiosOfLife.deps.json
+C:\Users\ngarza\Desktop\RatiosOfLife\RatiosOfLife\RatiosOfLife\bin\Debug\netcoreapp2.0\RatiosOfLife.runtimeconfig.json
+C:\Users\ngarza\Desktop\RatiosOfLife\RatiosOfLife\RatiosOfLife\bin\Debug\netcoreapp2.0\RatiosOfLife.runtimeconfig.dev.json
+C:\Users\ngarza\Desktop\RatiosOfLife\RatiosOfLife\RatiosOfLife\bin\Debug\netcoreapp2.0\RatiosOfLife.dll
+C:\Users\ngarza\Desktop\RatiosOfLife\RatiosOfLife\RatiosOfLife\bin\Debug\netcoreapp2.0\RatiosOfLife.pdb
+C:\Users\ngarza\Desktop\RatiosOfLife\RatiosOfLife\RatiosOfLife\obj\Debug\netcoreapp2.0\RatiosOfLife.csprojAssemblyReference.cache
+C:\Users\ngarza\Desktop\RatiosOfLife\RatiosOfLife\RatiosOfLife\obj\Debug\netcoreapp2.0\RatiosOfLife.csproj.CoreCompileInputs.cache
+C:\Users\ngarza\Desktop\RatiosOfLife\RatiosOfLife\RatiosOfLife\obj\Debug\netcoreapp2.0\RatiosOfLife.AssemblyInfoInputs.cache
+C:\Users\ngarza\Desktop\RatiosOfLife\RatiosOfLife\RatiosOfLife\obj\Debug\netcoreapp2.0\RatiosOfLife.AssemblyInfo.cs
+C:\Users\ngarza\Desktop\RatiosOfLife\RatiosOfLife\RatiosOfLife\obj\Debug\netcoreapp2.0\RatiosOfLife.dll
+C:\Users\ngarza\Desktop\RatiosOfLife\RatiosOfLife\RatiosOfLife\obj\Debug\netcoreapp2.0\RatiosOfLife.pdb

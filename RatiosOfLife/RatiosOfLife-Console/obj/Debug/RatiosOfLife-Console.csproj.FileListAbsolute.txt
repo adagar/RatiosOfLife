@@ -1,0 +1,2 @@
+C:\Users\ngarza\Desktop\RatiosOfLife\RatiosOfLife\RatiosOfLife-Console\obj\Debug\RatiosOfLife-Console.csprojAssemblyReference.cache
+C:\Users\ngarza\Desktop\RatiosOfLife\RatiosOfLife\RatiosOfLife-Console\obj\Debug\RatiosOfLife-Console.csproj.CoreCompileInputs.cache

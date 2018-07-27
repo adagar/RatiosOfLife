@@ -1,0 +1,6 @@
+C:\Users\ngarza\Desktop\RatiosOfLife\RatiosOfLife\RatiosOfLife_Console\bin\Debug\RatiosOfLife_Console.exe.config
+C:\Users\ngarza\Desktop\RatiosOfLife\RatiosOfLife\RatiosOfLife_Console\bin\Debug\RatiosOfLife_Console.exe
+C:\Users\ngarza\Desktop\RatiosOfLife\RatiosOfLife\RatiosOfLife_Console\bin\Debug\RatiosOfLife_Console.pdb
+C:\Users\ngarza\Desktop\RatiosOfLife\RatiosOfLife\RatiosOfLife_Console\obj\Debug\RatiosOfLife_Console.csproj.CoreCompileInputs.cache
+C:\Users\ngarza\Desktop\RatiosOfLife\RatiosOfLife\RatiosOfLife_Console\obj\Debug\RatiosOfLife_Console.exe
+C:\Users\ngarza\Desktop\RatiosOfLife\RatiosOfLife\RatiosOfLife_Console\obj\Debug\RatiosOfLife_Console.pdb

@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RatiosOfLife", "RatiosOfLife\RatiosOfLife.csproj", "{B86E0936-E263-46A3-87EB-2F52AD197F79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RatiosOfLife", "RatiosOfLife\RatiosOfLife.csproj", "{B86E0936-E263-46A3-87EB-2F52AD197F79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RatiosOfLife-Console", "RatiosOfLife-Console\RatiosOfLife-Console.csproj", "{DD6C3AF9-9BFD-4CF3-8BDF-2E6209B36B30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RatiosOfLife_Console", "RatiosOfLife_Console\RatiosOfLife_Console.csproj", "{2B713884-09F9-41A8-B454-A36BD7D5F349}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{B86E0936-E263-46A3-87EB-2F52AD197F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B86E0936-E263-46A3-87EB-2F52AD197F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B86E0936-E263-46A3-87EB-2F52AD197F79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD6C3AF9-9BFD-4CF3-8BDF-2E6209B36B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6C3AF9-9BFD-4CF3-8BDF-2E6209B36B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6C3AF9-9BFD-4CF3-8BDF-2E6209B36B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6C3AF9-9BFD-4CF3-8BDF-2E6209B36B30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B713884-09F9-41A8-B454-A36BD7D5F349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B713884-09F9-41A8-B454-A36BD7D5F349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B713884-09F9-41A8-B454-A36BD7D5F349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B713884-09F9-41A8-B454-A36BD7D5F349}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
