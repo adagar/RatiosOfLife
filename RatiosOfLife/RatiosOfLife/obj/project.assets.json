@@ -12662,23 +12662,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ngarza\\.nuget\\packages\\": {},
+    "C:\\Users\\A Nick Garza\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ngarza\\Desktop\\RatiosOfLife\\RatiosOfLife\\RatiosOfLife\\RatiosOfLife.csproj",
+      "projectUniqueName": "C:\\Users\\A Nick Garza\\Desktop\\CareerDevs\\RatiosOfLife\\RatiosOfLife\\RatiosOfLife\\RatiosOfLife.csproj",
       "projectName": "RatiosOfLife",
-      "projectPath": "C:\\Users\\ngarza\\Desktop\\RatiosOfLife\\RatiosOfLife\\RatiosOfLife\\RatiosOfLife.csproj",
-      "packagesPath": "C:\\Users\\ngarza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ngarza\\Desktop\\RatiosOfLife\\RatiosOfLife\\RatiosOfLife\\obj\\",
+      "projectPath": "C:\\Users\\A Nick Garza\\Desktop\\CareerDevs\\RatiosOfLife\\RatiosOfLife\\RatiosOfLife\\RatiosOfLife.csproj",
+      "packagesPath": "C:\\Users\\A Nick Garza\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\A Nick Garza\\Desktop\\CareerDevs\\RatiosOfLife\\RatiosOfLife\\RatiosOfLife\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ngarza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\A Nick Garza\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12686,6 +12686,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\A Nick Garza\\Desktop\\CareerDevs\\Scraper\\selenium-dotnet-3.13.0": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
